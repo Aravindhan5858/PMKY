@@ -1,0 +1,61 @@
+        .def{
+            color :deeppink
+        }
+        .mn{
+            text-align: justify;
+            font-size: 20px;   
+            text-indent: 15px;
+            font-weight: bold;
+            text-decoration-style: dotted;
+            
+
+        }
+        .as{
+            padding: 0%;
+            padding-block: 10px;
+            padding-inline: 20px;
+            margin: 0%;
+            margin-block: 10px;
+            margin-inline: 20px;
+            border: 2px solid black;
+            text-align: center;
+            font-size: 20px;
+            text-transform: uppercase;
+            text-decoration: underline;
+            font-weight: bold;
+            background-image: linear-gradient(to right, red, yellow);
+        }
+          .abc {
+            color:aliceblue;
+            font-size: 40px;
+            text-transform: uppercase;
+            text-decoration: underline;
+            text-align: center;
+            background-color: lightgray;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Courier New', Courier, monospace;
+            background-image: url("https://imgs.search.brave.com/JwyRin1ajakbeAotba-yAJwkl0HPJ7gwRpaJwQpScvs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI4/MDM4NTUxMS9waG90/by9jb2xvcmZ1bC1i/YWNrZ3JvdW5kLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1r/ajBQUlFsZ3ZXTHpB/MS0xbWU2aVpwNW1s/d3NaaEM0UWxjdklF/YjFKMWJzPQ");
+        }
+        .def{
+            padding: 0%;
+            padding-block: 10px;
+            padding-inline: 20px;
+            color: deeppink;
+            background-color: lightpink;
+            text-align: center;
+            font-size: medium;
+            border: 1px black solid;
+            padding: auto;
+            text-size-adjust: 100%;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-transform: uppercase;text-decoration: underline;
+        }
+        .aa{
+            color: darkorange;
+        }
+        .mm{
+            color: fuchsia;
+        }
+        .kk{
+            color: darkblue;
+        }
+  
