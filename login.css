@@ -1,0 +1,81 @@
+.form-body {
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    max-width: 95vw;
+    margin: 80px auto;
+    background: linear-gradient(135deg, #e0eafc 0%, #cfdef3 100%);
+    padding: 32px 28px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+    border-radius: 24px;
+    border: 1px solid #d1e3f7;
+}
+
+.form-body h1 {
+    text-align: center;
+    color: #2a3b4c;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+    text-shadow: 1px 2px 8px #e0eafc;
+    font-size: 28px;
+    margin-bottom: 32px;
+}
+
+.input-btn {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    max-width: 100%;
+    margin: 12px 0;
+}
+
+.input-btn input {
+    padding: 12px;
+    margin: 0;
+    border: 1.5px solid #b6c7e1;
+    border-radius: 8px;
+    font-size: 16px;
+    background: #f7fbff;
+    transition: border-color 0.2s;
+}
+.input-btn input:focus {
+    border-color: #4CAF50;
+    outline: none;
+}
+
+.radio-btn {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 16px;
+    margin: 16px 0;
+}
+
+.radio-btn label {
+    font-size: 15px;
+    color: #2a3b4c;
+    margin-left: 6px;
+}
+
+.submit-btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 28px;
+}
+
+.submit-btn button {
+    padding: 12px 32px;
+    background: linear-gradient(90deg, #4CAF50 0%, #43a047 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(76, 175, 80, 0.15);
+    transition: background 0.2s, transform 0.1s;
+}
+.submit-btn button:hover {
+    background: linear-gradient(90deg, #43a047 0%, #388e3c 100%);
+    transform: translateY(-2px) scale(1.03);
+}
