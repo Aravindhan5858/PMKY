@@ -26,6 +26,7 @@
     text-align: center;
     font-size: 40px;
     font-weight: bold;
+    padding: 20px;
 }
 .b{
     width: 100%;
@@ -56,4 +57,10 @@
     width: 50%;
      margin: 1px auto;
 
+}
+.back{
+    background-image: url("https://imgs.search.brave.com/LsKHr4gQAoUt266yc8Vygwj9YbPxQzf0Vj9N-DRP8F0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9o/b21lLXBsYW50LW5v/dGVwYWQtY2FsY3Vs/YXRvcl8xNDA3MjUt/MjMyODguanBnP3Nl/bXQ9YWlzX2h5YnJp/ZCZ3PTc0MA");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh; 
 }
